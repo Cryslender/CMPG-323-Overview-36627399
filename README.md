@@ -37,3 +37,24 @@ graph TB;
     DueDateView-->GroupTheTaskByDueDate;
 ```
 In the current repository I make use of Code, Issues and Project tab which they consists of what is needed on the project. After creating a project, I created the views and porpulate the task to tabular view. The link the repository to the project. 
+
+### Branching Stratage
+
+```mermaid
+  graph TH;
+      ProjectBranching-->CMPG323Overview;
+      ProjectBranching-->CMPG323Project1;
+      ProjectBranching-->CMPG323Project2;
+      ProjectBranching-->CMPG323Project3;
+      ProjectBranching-->CMPG323Project4;
+      ProjectBranching-->CMPG323Project5;
+      CMPG323Overview-->MainBranch;
+      CMPG323Project2-->MainBranch;
+      CMPG323Project3-->MainBranch;
+      CMPG323Project3-->DevwlopBranch;
+      CMPG323Project3-->HotFixBranch;
+      CMPG323Project4-->MainBranch;
+      CMPG323Project5-->MainBranch;
+  ```
+ 
+Project 1,2,4,5 have one branch which is main and project 3 there 3 branches main,hotFix,develop respectively. Hotfix branch is project will fix and bring the changes to main branch.
