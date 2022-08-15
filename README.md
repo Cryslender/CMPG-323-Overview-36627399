@@ -9,7 +9,7 @@ This repository will hold information about the due dates of assignment and time
 5) CMPG 323 Project 5-36627399: is the repository for the fifth project which is Reporting and Monitoring
 
 ### Digram showing how the project will be broken down
-```FlowChart
+```mermaid
 digram;
     Project 1;
     CMPG-323 Overview-36627399(Repositiory)-->Project 1;
