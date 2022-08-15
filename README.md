@@ -1,7 +1,7 @@
 <bg color = FFFF>
 # CMPG-323-Overview-36627399
 This repository will hold information about the due dates of assignment and time taken to complete them
-<hr color= red><br>
+<hr color= red>
   
 ### Repositories that will be created for each projects
 1) CMPG 323 Overview-36627399: is the respository for first project which is Agile and Scrum<br>
