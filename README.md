@@ -12,6 +12,7 @@ This repository will hold information about the due dates of assignment and time
 
 ### Digram showing how the project will be broken down
 <hr color = "blue">
+
 ```mermaid
 graph TB;
     CMPG-323Overview(Repositiory)-->Code;
