@@ -13,6 +13,6 @@ This repository will hold information about the due dates of assignment and time
 graph TB;
     Project1-->CMPG-323Overview(Repositiory);
     CMPG-323Overview(Repositiory)-->Project1;
-    Project1--> linkRepositoryToTheProject;
-    linkRepositoryToTheProject-->Project2;
+    Project1--> LinkRepositoryToTheProject;
+    LinkRepositoryToTheProject-->Project2;
 ```
