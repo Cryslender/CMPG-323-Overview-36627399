@@ -24,5 +24,5 @@ graph TB;
     Project1-->LinkedAssignmentView;
     Project1-->SprintView;
     Project1-->DueDateView;
-    LinkRepositoryToTheProject-->Project2;
+    TabularView-->LinkRepositoryToTheProject;
 ```
