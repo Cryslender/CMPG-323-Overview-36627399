@@ -51,7 +51,7 @@ In the current repository I make use of Code, Issues and Project tab which they 
       CMPG323Overview-->MainBranch;
       CMPG323Project2-->MainBranch;
       CMPG323Project3-->MainBranch;
-      CMPG323Project3-->DevwlopBranch;
+      CMPG323Project3-->DevelopBranch;
       CMPG323Project3-->HotFixBranch;
       CMPG323Project4-->MainBranch;
       CMPG323Project5-->MainBranch;
