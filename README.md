@@ -23,6 +23,12 @@ graph TB;
     Project1-->StatusView;
     Project1-->LinkedAssignmentView;
     Project1-->SprintView;
-    Project1-->DueDateView;
-    TabularView-->LinkRepositoryToTheProject;
+    Project1-->DueDateView
+    TabularView-->AddColumns;
+    TabularView-->PopulateTheTask
+    PopulateTheTask-->LinkRepositoryToTheProject;
+    StatusView-->GroupTheTaskByStatus;
+    LinkedAssignmentView-->GroupTheTastByLinkedAssignment;
+    SprintView-->GroupTheTaskBySprint;
+    DueDateView-->GroupTheTaskByDueDate;
 ```
