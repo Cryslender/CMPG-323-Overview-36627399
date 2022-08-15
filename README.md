@@ -9,7 +9,7 @@ This repository will hold information about the due dates of assignment and time
 3) CMPG 323 Project 3-36627399: is the repository for the third project which is Standards and Patterns<br>
 4) CMPG 323 Project 4-36627399: is the repository for the fourth project which is Testing and RPA<br>
 5) CMPG 323 Project 5-36627399: is the repository for the fifth project which is Reporting and Monitoring<br>
-<hr color = red><br>
+<hr color = red>
 
 ### Digram showing how the project will be broken down<br>
  
