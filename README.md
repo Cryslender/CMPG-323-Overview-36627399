@@ -1,7 +1,7 @@
 <bg color = FFFF>
 # CMPG-323-Overview-36627399
 This repository will hold information about the due dates of assignment and time taken to complete them
-<hr color= FF00><br>
+<hr color= red><br>
   
 ### Repositories that will be created for each projects
 1) CMPG 323 Overview-36627399: is the respository for first project which is Agile and Scrum<br>
@@ -9,7 +9,7 @@ This repository will hold information about the due dates of assignment and time
 3) CMPG 323 Project 3-36627399: is the repository for the third project which is Standards and Patterns<br>
 4) CMPG 323 Project 4-36627399: is the repository for the fourth project which is Testing and RPA<br>
 5) CMPG 323 Project 5-36627399: is the repository for the fifth project which is Reporting and Monitoring<br>
-<hr color = FFFF><br>
+<hr color = red><br>
 
 ### Digram showing how the project will be broken down<br>
  
@@ -37,13 +37,13 @@ graph TB;
     DueDateView-->GroupTheTaskByDueDate;
 ```
 In the current repository I make use of Code, Issues and Project tab which they consists of what is needed on the project. After creating a project, I created the views and porpulate the task to tabular view. The link the repository to the project. 
-
+<hr color="red">
+  
 ### Branching Stratage
 
 ```mermaid
   graph TB;
       ProjectBranching-->CMPG323Overview;
-      ProjectBranching-->CMPG323Project1;
       ProjectBranching-->CMPG323Project2;
       ProjectBranching-->CMPG323Project3;
       ProjectBranching-->CMPG323Project4;
