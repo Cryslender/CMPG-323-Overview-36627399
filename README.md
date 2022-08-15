@@ -41,7 +41,7 @@ In the current repository I make use of Code, Issues and Project tab which they 
 ### Branching Stratage
 
 ```mermaid
-  graph TH;
+  graph TB;
       ProjectBranching-->CMPG323Overview;
       ProjectBranching-->CMPG323Project1;
       ProjectBranching-->CMPG323Project2;
