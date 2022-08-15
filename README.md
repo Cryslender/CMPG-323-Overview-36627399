@@ -1,18 +1,16 @@
 <bg color = FFFF>
 # CMPG-323-Overview-36627399
 This repository will hold information about the due dates of assignment and time taken to complete them
-
+<hr color= FF00>
 ### Repositories that will be created for each projects
-<hr color= "red">
 1) CMPG 323 Overview-36627399: is the respository for first project which is Agile and Scrum<br>
 2) CMPG 323 Project 2-36627399: is the repository for the second project which is API Development<br>
 3) CMPG 323 Project 3-36627399: is the repository for the third project which is Standards and Patterns<br>
 4) CMPG 323 Project 4-36627399: is the repository for the fourth project which is Testing and RPA<br>
 5) CMPG 323 Project 5-36627399: is the repository for the fifth project which is Reporting and Monitoring<br>
 
+<hr color = FFFF>
 ### Digram showing how the project will be broken down
-<hr color = "blue">
-
 ```mermaid
 graph TB;
     CMPG-323Overview(Repositiory)-->Code;
