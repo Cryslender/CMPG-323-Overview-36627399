@@ -58,3 +58,6 @@ In the current repository I make use of Code, Issues and Project tab which they 
   ```
  
 Project 1,2,4,5 have one branch which is main and project 3 there 3 branches main,hotFix,develop respectively. Hotfix branch is project will fix and bring the changes to main branch.
+
+### .GitIgnore file
+It is a file that as user you dont want commit it again and again if you have commit it in the past. Or is the file that contain secret information and you dont want other user to get hold of it as "privacy control"-protecting valueable information.Project 1 there is not gitignore file needed,
