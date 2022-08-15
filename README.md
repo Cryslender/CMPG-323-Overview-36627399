@@ -11,8 +11,18 @@ This repository will hold information about the due dates of assignment and time
 ### Digram showing how the project will be broken down
 ```mermaid
 graph TB;
-    Project1-->CMPG-323Overview(Repositiory);
-    CMPG-323Overview(Repositiory)-->Project1;
-    Project1--> LinkRepositoryToTheProject;
+    CMPG-323Overview(Repositiory)-->Code;
+    CMPG-323Overview(Repositiory)-->Issues;
+    CMPG-323Overview(Repositiory)-->Projects;
+    Code--> README FILE;
+    Code--> LICENCE;
+    Issues--> Lables;
+    Issues--> Millstones;
+    Projects-->Project1;
+    Project1--> Tabular View;
+    Project1--> Status View;
+    Project1--> Linked Assignment View;
+    Project1--> Sprint View;
+    Project1--> Due Date View;
     LinkRepositoryToTheProject-->Project2;
 ```
