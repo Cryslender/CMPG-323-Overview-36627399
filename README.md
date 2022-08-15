@@ -10,7 +10,7 @@ This repository will hold information about the due dates of assignment and time
 
 ### Digram showing how the project will be broken down
 ```mermaid
-digram;
+graph TB;
     Project 1;
     CMPG-323 Overview-36627399(Repositiory)-->Project 1;
     Project 1--> link repository to the project;
