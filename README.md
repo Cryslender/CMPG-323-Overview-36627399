@@ -36,6 +36,7 @@ graph TB;
     SprintView-->GroupTheTaskBySprint;
     DueDateView-->GroupTheTaskByDueDate;
 ```
+
 In the current repository I make use of Code, Issues and Project tab which they consists of what is needed on the project. After creating a project, I created the views and porpulate the task to tabular view. The link the repository to the project. 
 <hr color="red">
   
