@@ -31,6 +31,7 @@ graph TB;
     TabularView-->AddColumns;
     TabularView-->PopulateTheTask
     PopulateTheTask-->LinkRepositoryToTheProject;
+    LinkRepositoryToTheProject-->CMPG-323Overview(Repositiory);
     StatusView-->GroupTheTaskByStatus;
     LinkedAssignmentView-->GroupTheTastByLinkedAssignment;
     SprintView-->GroupTheTaskBySprint;
