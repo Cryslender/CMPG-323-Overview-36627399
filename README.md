@@ -57,10 +57,10 @@ Sensitive data, such as user input data, cannot be stored in the disk as plain t
 ```mermaid
 graph TB;
       Semester-->POE;
-      Consists-->Project1;
-      Consists-->Project2;
-      Consists-->Project3;
-      Consists-->Project4;
-      Consists-->Project5;
+      POE-->Project1;
+      POE-->Project2;
+      POE-->Project3;
+      POE-->Project4;
+      POE-->Project5;
 ```
 POE will integrate all the project for the Exam purpose.
