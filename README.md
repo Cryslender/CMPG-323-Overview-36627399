@@ -55,7 +55,7 @@ Sensitive data, such as user input data, cannot be stored in the disk as plain t
 
 ### Projects Structore for the Semester
 ```mermaid
-graph TB:
+graph TB;
       Semester-->Project1;
       Semester-->Project2;
       Semester-->Project3;
