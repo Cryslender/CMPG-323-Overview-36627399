@@ -56,13 +56,7 @@ Sensitive data, such as user input data, cannot be stored in the disk as plain t
 ### Projects Structore for the Semester
 ```mermaid
 graph TB;
-      Semester-->Project1;
-      Semester-->Project2;
-      Semester-->Project3;
-      Semester-->Project4;
-      Semester-->Project5;
       Semester-->POE;
-      POE-->Consists;
       Consists-->Project1;
       Consists-->Project2;
       Consists-->Project3;
