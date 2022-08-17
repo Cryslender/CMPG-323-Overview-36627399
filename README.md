@@ -1,4 +1,4 @@
-<h1 style="color:red"> CMPG-323-Overview-36627399</h1>
+<h1 style="font-family:verdana"> CMPG-323-Overview-36627399</h1>
 This repository will hold information about the due dates of assignment and time taken to complete them
 <hr color= red>
 
