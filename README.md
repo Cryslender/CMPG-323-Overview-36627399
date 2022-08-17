@@ -42,21 +42,6 @@ In the current repository I make use of Code, Issues and Project tab which they 
   
 ### Branching Stratage
 
-```mermaid
-  graph TB;
-      ProjectBranching-->CMPG323Overview;
-      ProjectBranching-->CMPG323Project2;
-      ProjectBranching-->CMPG323Project3;
-      ProjectBranching-->CMPG323Project4;
-      ProjectBranching-->CMPG323Project5;
-      CMPG323Overview-->MainBranch;
-      CMPG323Project2-->MainBranch;
-      CMPG323Project3-->MainBranch;
-      CMPG323Project3-->DevelopBranch;
-      CMPG323Project3-->HotFixBranch;
-      CMPG323Project4-->MainBranch;
-      CMPG323Project5-->MainBranch;
-  ```
  
 Project 1,2,4,5 have one branch which is main and project 3 there 3 branches main,hotFix,develop respectively. Hotfix branch is project will fix and bring the changes to main branch.
 <hr color="red">
