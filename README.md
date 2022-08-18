@@ -53,7 +53,7 @@ It is a file that you as a user do not want to commit again and again if you hav
 ### Storage of Credatial and Sensitive Information
 Sensitive data, such as user input data, cannot be stored in the disk as plain text for security reasons. The reason for this is that protecting data from within and from the outside world is critical. Data storage should be encrypted with any Cipher that can be decrypted back to plain text. This will put an end to the problem of inside theft (meaning someone from the company can give information of the company to other people, but if its encrypted company is safe). When it comes to good data storage, keeping only one copy of a file is not a good idea if the file is lost, but keeping multiple copies can help.I be using git-credential-store to store credentials on disk.
 
-### Projects Structore for the Semester
+### Projects Structure for the Semester
 ```mermaid
 graph TB;
       Semester-->POE;
@@ -64,3 +64,9 @@ graph TB;
       POE-->Project5;
 ```
 POE will integrate all the project for the Exam purpose.
+
+### Due Date View
+It summerize the due dates of the work to do and the work done
+
+### Effort Hours View 
+It summarize the hours for each sprint(2 weeks), off which each week takes 11 hours. By adding the hours in each sprint and divide by 2 will show hours per sprint
