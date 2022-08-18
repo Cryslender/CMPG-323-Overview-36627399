@@ -1,4 +1,4 @@
-<h1>CMPG-323-Overview-36627399</h1>
+<h1 size=100>CMPG-323-Overview-36627399</h1>
 This repository will hold information about the due dates of assignment and time taken to complete them
 <hr color= red>
 
@@ -66,7 +66,7 @@ graph TB;
 POE will integrate all the project for the Exam purpose.
 
 ### Due Date View
-It summerize the due dates of the work to do and the work done
+Summerize the due dates of the work to do and the work done
 
 ### Effort Hours View 
-It summarize the hours for each sprint(2 weeks), off which each week takes 11 hours. By adding the hours in each sprint and divide by 2 will show hours per sprint
+Summarize the hours for each sprint(2 weeks), off which each week takes 11 hours. By adding the hours in each sprint and divide by 2 will show hours per week
