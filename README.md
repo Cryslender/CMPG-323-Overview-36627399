@@ -1,6 +1,6 @@
-<h1 size=100>CMPG-323-Overview-36627399</h1>
+<h1>CMPG-323-Overview-36627399</h1>
 This repository will hold information about the due dates of assignment and time taken to complete them
-<hr color= red>
+<hr color= "red">
 
 
 ### Repositories that will be created for each projects
