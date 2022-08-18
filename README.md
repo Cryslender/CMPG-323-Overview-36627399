@@ -13,8 +13,6 @@ This repository will hold information about the due dates of assignment and time
 
 ### Digram showing how the project will be broken down<br>
 
-![My Diagram Image](DiagramMLOPs.png)
-
 ```mermaid
 graph TB;
     CMPG-323Overview(Repositiory)-->Code;
