@@ -71,4 +71,4 @@ POE will integrate all the project for the Exam purpose.
 Summerize the due dates of the work to do and the work done
 
 ### Effort Hours View 
-Summarize the hours for each sprint(2 weeks), off which each week takes 11 hours. By adding the hours in each sprint and divide by 2 will show hours per week
+Summarize the hours for each sprint(2 weeks), off which each week takes 11 hours. By adding the hours in each sprint and divide by 2 will show hours per week.Also the time is been calculated base Study guide where each project should take 6 per week, since the print are i two weeks, I made project to take twelve hours or less.
