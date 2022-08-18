@@ -13,7 +13,7 @@ This repository will hold information about the due dates of assignment and time
 
 ### Digram showing how the project will be broken down<br>
 
-![My Diagram Image](images/relative/path/my-diagram-image.png)
+![My Diagram Image](images/relative/path/my-diagram-the-continuous-workflow_03.png)
 
 ```mermaid
 graph TB;
